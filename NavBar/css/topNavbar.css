@@ -1,3 +1,6 @@
+*{
+    margin:0px;
+}
 
 ul, li, ol {
     margin: 0;
@@ -8,7 +11,7 @@ ul, li, ol {
 }
 
 #header {
-    margin:0
+    margin:0px;
 }
 #header .navegador {
     width:100%;
@@ -281,4 +284,10 @@ ul, li, ol {
 }
 .buscaformulario :-ms-input-placeholder {
     color:#ddd
+}
+
+.icon-search{
+
+    width: 20%;
+    height: 15px;
 }
