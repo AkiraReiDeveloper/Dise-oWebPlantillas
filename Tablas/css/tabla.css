@@ -34,9 +34,9 @@ body {
 .colum1 {
 	float: left;
   	width: 70%;
-  	border-right: #5a5c5d solid 2px;
-  	border-left: #5a5c5d solid 2px;
-  	border-bottom: #5a5c5d solid 2px;
+  	border-right: #232323 solid 2px;
+  	border-left: #232323 solid 2px;
+  	border-bottom: #232323 solid 2px;
   	background:#f2f2f2;
 }
 
@@ -70,8 +70,10 @@ body {
 }
 .tabletittle{
 	padding: 2%;
-	border-top: #5a5c5d solid 2px;
-	border-bottom: #5a5c5d solid 2px;
+	border-top: #232323 solid 2px;
+	border-bottom: #232323 solid 2px;
+  background: #232323;
+  color: #FFFFFF;
 }
 /*Fin columna derecha*/
 
@@ -161,7 +163,7 @@ body {
 	display:block;
 	padding:10px 20px;
 	color:#fff;
-	background:#024959;
+	background:#232323;
 	text-decoration: none;
 }
 
